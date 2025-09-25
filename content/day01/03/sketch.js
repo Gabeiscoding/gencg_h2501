@@ -46,7 +46,7 @@ function draw() {
     const radius = mouseX - width / 2 + 0.5;
     const angle = TWO_PI / circleResolution;
 
-    strokeWeight(2);
+    strokeWeight(20);
     fill(fillColor);
 
     beginShape();
