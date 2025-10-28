@@ -26,7 +26,7 @@ For example
 There are triangles on the inside of each circle that represent the numbers of the face of the clock. Finally, the real world time is displayed digitally at the bottom of the screen. Real time is in black text on a white box at the bottom.
 
 {% raw %}
-<iframe src="https://editor.p5js.org/t2005gabriel/full/Yiz3yr15Kc"></iframe>" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/t2005gabriel/full/Yiz3yr15Kc" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
 [image](./content/day03-Clocks/Screenshot%202025-10-28%20172947.png)
