@@ -9,6 +9,7 @@ For my grid there are circles in a row and these circles move downwards and they
 
 The canvas is white
 
+![image](./content/day02-Grids/Screenshot%202025-09-30%20234147.png)
 
 {% raw %}
 <iframe src="https://editor.p5js.org/t2005gabriel/full/KeDerAYOt" width="100%" height="450" frameborder="no"></iframe>
