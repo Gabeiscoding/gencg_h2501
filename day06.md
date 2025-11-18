@@ -6,7 +6,7 @@
 
 Seeing a face composed of a bunch of lights
 
-Here, I have a gear that is constantly oscillating (moving back and forth) from the top to the bottom of the canvas. The gear changes colour gradually from red to orange and vice versa. When nearing the top of the canvas it becomes more red and when near the bottom becomes more orange
+Here, I have a face which is composed of circles and ellipses that change shape and size with time. They form mouth and eyes that seemingly open and close.
 
 {% raw %}
 <iframe src="https://editor.p5js.org/t2005gabriel/full/qC1HBnz_m" width="100%" height="450" frameborder="no"></iframe>
