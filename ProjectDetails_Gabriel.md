@@ -35,4 +35,15 @@ First I decided to organaise the project into layers. There were 3 main ones
 <iframe src="./Project_GENCG/space3(comets).jpg" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %} -->
 
+Here is a concept art on pinterest I took inspiration from
 [image](./content/Project_GENCG/space3(comets).jpg)
+
+Here is a look at iteration 1.
+[image](./content/Project_GENCG/Iteration1_error.png)
+
+Here is a look at the project. I had a bug where if the screen was resized too many stars and comets would be generated which I fixed in the second iteration.
+[video](./content/Project_GENCG/Iteration%202.mp4)
+
+I felt that there was not enough stars on the screen so I reduced increase the ratio of stars to pixels(background).
+
+[video](./content/Project_GENCG/Iteration%203.mp4)
