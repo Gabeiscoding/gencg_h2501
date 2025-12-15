@@ -54,5 +54,5 @@ I decided to add a explosion that simulated a supernova. I did this by having a 
 [image](./content/Project_GENCG/SpaceBackgroundExplosion.png)
 
 {% raw %}
-<iframe src="https://editor.p5js.org/t2005gabriel/full/qC1HBnz_m" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/t2005gabriel/full/e41fTwBxB"></iframe>
 {% endraw %}
