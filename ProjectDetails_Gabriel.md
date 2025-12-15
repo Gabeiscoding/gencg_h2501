@@ -48,6 +48,11 @@ I felt that there was not enough stars on the screen so I reduced increase the r
 
 [video](./content/Project_GENCG/Iteration%203.mp4)
 
+I decided to add a explosion that simulated a supernova. I did this by having a circle that expanded outwards by changing radius. I had the colour of the circle fade as time passed. In addition, I decided to add a trail where the player moved their cursor to recreate the feeling of dust and light in space
+
+
+[image](./content/Project_GENCG/SpaceBackgroundExplosion.png)
+
 {% raw %}
 <iframe src="https://editor.p5js.org/t2005gabriel/full/qC1HBnz_m" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
