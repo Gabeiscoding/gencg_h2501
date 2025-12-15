@@ -47,3 +47,7 @@ Here is a look at the project. I had a bug where if the screen was resized too m
 I felt that there was not enough stars on the screen so I reduced increase the ratio of stars to pixels(background).
 
 [video](./content/Project_GENCG/Iteration%203.mp4)
+
+{% raw %}
+<iframe src="https://editor.p5js.org/t2005gabriel/full/qC1HBnz_m" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
