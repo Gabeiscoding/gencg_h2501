@@ -29,4 +29,4 @@ There are triangles on the inside of each circle that represent the numbers of t
 <iframe src="https://editor.p5js.org/t2005gabriel/full/Yiz3yr15Kc" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
-[image](./content/day03-Clocks/Screenshot%202025-10-28%20172947.png)
+![image](./content/day03-Clocks/Screenshot%202025-10-28%20172947.png)
