@@ -2,7 +2,6 @@
 
 ## Space background that can be used as a live wallpaper
 
-[image]
 
 
 Here, I am working on a background with stars and outer space scenery that could be used a  live wallpaper for windows devices.
