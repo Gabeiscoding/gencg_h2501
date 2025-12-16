@@ -23,12 +23,12 @@ First I decided to organaise the project into layers. There were 3 main ones
 
 2. A layer which has stars that seem to flash. I did this by making them larger and smaller over an interval of time. They are randomly places all over the canvas
 
-[image](./content/Project_GENCG/Stars.jpg)
+![image](./content/Project_GENCG/Stars.jpg)
 
 
 3. A layer which has comets which move from the top right of the screen to the bottom left of the screen to really bring the imagery to life.
 
-[image](./content/Project_GENCG/Comets.jpg)
+![image](./content/Project_GENCG/Comets.jpg)
 
 
 <!-- {% raw %}
@@ -36,23 +36,23 @@ First I decided to organaise the project into layers. There were 3 main ones
 {% endraw %} -->
 
 Here is a concept art on pinterest I took inspiration from
-[image](./content/Project_GENCG/space3(comets).jpg)
+![image](./content/Project_GENCG/space3(comets).jpg)
 
 Here is a look at iteration 1.
-[image](./content/Project_GENCG/Iteration1_error.png)
+![image](./content/Project_GENCG/Iteration1_error.png)
 
 Here is a look at the project. I had a bug where if the screen was resized too many stars and comets would be generated which I fixed in the second iteration.
-[video](./content/Project_GENCG/Iteration%202.mp4)
+![video](./content/Project_GENCG/Iteration%202.mp4)
 
 I felt that there was not enough stars on the screen so I reduced increase the ratio of stars to pixels(background).
 
-[video](./content/Project_GENCG/Iteration%203.mp4)
+![video](./content/Project_GENCG/Iteration%203.mp4)
 
 I decided to add a explosion that simulated a supernova. I did this by having a circle that expanded outwards by changing radius. I had the colour of the circle fade as time passed. In addition, I decided to add a trail where the player moved their cursor to recreate the feeling of dust and light in space
 
 
-[image](./content/Project_GENCG/SpaceBackgroundExplosion.png)
+![image](./content/Project_GENCG/SpaceBackgroundExplosion.png)
 
 {% raw %}
-<iframe src="https://editor.p5js.org/t2005gabriel/full/e41fTwBxB"></iframe>
+<iframe src="https://editor.p5js.org/t2005gabriel/full/e41fTwBxB" width="500" height="250"></iframe>
 {% endraw %}
