@@ -17,5 +17,5 @@ I made another machine.
 Here, I have two pistons that move toward each other. Here the background or piston is either purple or orange. When the background is purple the piston is orange and vice versa. Piston length is constantly increased. to give the impression of movement. Once the piston length of both piston is greater than the width of the screen the colours are inverted.
 
 {% raw %}
-<iframe src="https://editor.p5js.org/t2005gabriel/full/Y8czJ6CZj"></iframe>
+<iframe src="https://editor.p5js.org/t2005gabriel/full/Y8czJ6CZj" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
