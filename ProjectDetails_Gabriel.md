@@ -56,3 +56,10 @@ I decided to add a explosion that simulated a supernova. I did this by having a 
 {% raw %}
 <iframe src="https://editor.p5js.org/t2005gabriel/full/e41fTwBxB" width="2000" height="800"></iframe>
 {% endraw %}
+
+<iframe 
+    src="https://editor.p5js.org/t2005gabriel/full/e41fTwBxB" 
+    width="95%" 
+    height="800px" 
+    frameborder="0"  ></iframe>
+
