@@ -4,5 +4,4 @@
 
 ## Welcome to my GenCG repo!
 
-![video](/GenCG.mp4)
-
+![video](./GenCG.mp4)
